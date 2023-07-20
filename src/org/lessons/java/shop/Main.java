@@ -34,6 +34,7 @@ public class Main {
         prodotto2.setNome("Collana");
         prodotto2.setDescrizione("Oro");
         prodotto2.setPrezzo(70);
+        prodotto2.setIva(0.20);
 
         // stampo su console i valori modificati
         System.out.println("\n Prodotto numero 2 modificato:");
